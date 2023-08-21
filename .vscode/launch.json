@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit",
+            "type": "python",
+            "request": "launch",
+            "program": "C://Users//AppData//Local//Programs//Python//Python38//Scripts//streamlit.exe", //****Please change to your file path where streamlit download
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["run","Can_I_Read_app.py"]
+        }
+    ]
+}
